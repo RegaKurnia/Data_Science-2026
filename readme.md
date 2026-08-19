@@ -47,6 +47,31 @@ https://github.com/RegaKurnia/Data_Science-2026/blob/main/Pertemuan6_RegaKurniaS
 **Notebook:**
 https://github.com/RegaKurnia/Data_Science-2026/blob/main/Pertemuan7_RegaKurniaSaputra_240401010162.ipynb
 
+### Pertemuan 9 - Logistic Regression, Decision Tree, Confusion Matrix, Accuracy, Precision, Recall, dan F1-Score
+
+**Notebook:**
+https://github.com/RegaKurnia/Data_Science-2026/blob/main/Pertemuan9_RegaKurniaSaputra_240401010162.ipynb
+
+### Pertemuan 10 - Random Forest, Imbalanced Dataset & Customer Churn Prediction
+
+**Notebook:**
+https://github.com/RegaKurnia/Data_Science-2026/blob/main/Pertemuan10_RegaKurniaSaputra_240401010162.ipynb
+
+### Pertemuan 11 - K-Means Clustering, Hierarchical Clustering & Elbow Method
+
+**Notebook:**
+https://github.com/RegaKurnia/Data_Science-2026/blob/main/Pertemuan11_RegaKurniaSaputra_240401010162.ipynb
+
+### Pertemuan 12 - Apriori (Market Basket Analysis) & Sistem Rekomendasi Dasar
+
+**Notebook:**
+https://github.com/RegaKurnia/Data_Science-2026/blob/main/Pertemuan12_RegaKurniaSaputra_240401010162.ipynb
+
+### Pertemuan 13 - Deep Learning (Artificial Neural Network) & NLP Dasar (TF-IDF)
+
+**Notebook:**
+https://github.com/RegaKurnia/Data_Science-2026/blob/main/Pertemuan13_RegaKurniaSaputra_240401010162.ipynb
+
 ---
 
 ## Tools dan Library yang Digunakan
